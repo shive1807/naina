@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naina.Plugins", "naina.Plugins.csproj", "{ABB80331-E204-F8C0-03EE-CF906DCD960D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naina", "naina.csproj", "{2B691A06-312F-B43C-A4C8-5578752235CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "naina.Editor.Plugins", "naina.Editor.Plugins.csproj", "{512DC9DC-8117-A174-3E39-CE15B168D1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB80331-E204-F8C0-03EE-CF906DCD960D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB80331-E204-F8C0-03EE-CF906DCD960D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB80331-E204-F8C0-03EE-CF906DCD960D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB80331-E204-F8C0-03EE-CF906DCD960D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B691A06-312F-B43C-A4C8-5578752235CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B691A06-312F-B43C-A4C8-5578752235CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B691A06-312F-B43C-A4C8-5578752235CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B691A06-312F-B43C-A4C8-5578752235CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512DC9DC-8117-A174-3E39-CE15B168D1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512DC9DC-8117-A174-3E39-CE15B168D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512DC9DC-8117-A174-3E39-CE15B168D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512DC9DC-8117-A174-3E39-CE15B168D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
